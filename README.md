@@ -1,9 +1,10 @@
 ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 # My name is Warunee Dinunzio.
-- 🛠 I am a Software Engineer
-- 💻 a self-taught programmer
-- 📖 a Lifelong Learner
-- 🙎🏻🙎🏻 a Mother of Twins
+- 🛠 I am a Software Engineer,
+- 🪲 QA Engineer,
+- 💻 a self-taught programmer,
+- 📖 a Lifelong Learner,
+- 🙎🏻🙎🏻 a Mother of Twins!!
 <!-- **waruneeDinunzio/waruneeDinunzio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 - 🔭 I’m currently working on my project:
 
