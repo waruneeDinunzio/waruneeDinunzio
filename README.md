@@ -59,7 +59,7 @@ I care deeply about **software quality, accessibility, and real-world impact**.
 
 ### 🤝 Open to Opportunities
 
-I’m actively seeking **Junior QA Automation Engineer roles**  
+I’m actively seeking **QA Automation Engineer roles**
 and opportunities to contribute to **mission-driven teams**.
 
 ---
