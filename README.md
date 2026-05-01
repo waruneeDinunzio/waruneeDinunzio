@@ -77,3 +77,18 @@ and opportunities to contribute to **mission-driven teams**.
 🏃‍♀️ Training for a half marathon  
 🌱 Passionate about sustainability & lifelong learning
 
+### 🐲 Bonus Fun Fact
+
+<details>
+<summary>🤔 True or False: I named my son "Jira" after the bug tracking tool because I love QA so much?</summary>
+
+### ❌ False!
+Plot twist 😄
+
+I actually named my son **Jira** after... **GoJira** (Godzilla) — **the KING of Monsters** 🐲
+
+But somehow, I still ended up working with Jira every day as a QA Engineer.
+
+Life has a sense of humor like that.
+
+</details>
