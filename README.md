@@ -82,13 +82,22 @@ and opportunities to contribute to **mission-driven teams**.
 <details>
 <summary>🤔 True or False: I named my son "Jira" after the bug tracking tool because I love QA so much?</summary>
 
-### ❌ False!
+#### ❌ False!
 Plot twist 😄
 
-I actually named my son **Jira** after... **GoJira** (Godzilla) — **the KING of Monsters** 🐲
+I actually named MY SON **JIRA** after... **GoJira** (Godzilla) — **THE KING of MONSTERS** 🐲
 
-But somehow, I still ended up working with Jira every day as a QA Engineer.
+ #### ❌ Not.. exactly!
+<details>
+<summary>The true is...</summary>
+  
+Jira, the bug tracking tool named after Gojira(Godzilla). My son, Jira, is named from the first two letters of my nickname and my husband’s name, and it’s also a Thai name.
+So somehow, without planning it at all…
 
-Life has a sense of humor like that.
+I still ended up working with Jira every day as a QA Engineer.
+
+Life has a great sense of humor like that 😄
+
+</details>
 
 </details>
