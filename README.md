@@ -1,10 +1,8 @@
 ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-# I'm Warunee Dinunzio
-
-🪲 **QA Automation Engineer** | 🛠 Software Engineer  
-💻 Self-taught Programmer | 📖 Lifelong Learner  
-🙎🏻🙎🏻 Proud Mom of Twins  
+# I'm Warunee Dinunzio <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🪲+QA+Automation+Engineer;Python+%7C+Selenium+%7C+Playwright;💻+Self-taught+Sortware+Engineer;📖+Lifelong+Learner;👦🏻👦🏻+Proud+Mom+of+Twins&left=true&width=500&height=45">
+</p>
 
 ---
 
@@ -48,8 +46,8 @@ I care deeply about **software quality, accessibility, and real-world impact**.
 
 ### 🛠️ I’m currently working on
 
+[![Local_AI_chatbot_QA_automation](https://img.shields.io/badge/Repo-Local_AI_chatbot_QA_automation-blue?logo=github)](https://github.com/waruneeDinunzio/Local_AI_chatbot_QA_automation)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=waruneeDinunzio&repo=Local_AI_chatbot_QA_automation&theme=transparent)]([https://github.com/waruneeDinunzio/Learning_Python](https://github.com/waruneeDinunzio/Local_AI_chatbot_QA_automation))
 
 ---
 
