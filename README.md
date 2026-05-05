@@ -46,6 +46,13 @@ I care deeply about **software quality, accessibility, and real-world impact**.
 
 ---
 
+### 🛠️ I’m currently working on
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=waruneeDinunzio&repo=Local_AI_chatbot_QA_automation&theme=transparent)]([https://github.com/waruneeDinunzio/Learning_Python](https://github.com/waruneeDinunzio/Local_AI_chatbot_QA_automation))
+
+---
+
 ### 🧪 What I Bring
 
 ✔️ Automation testing with **Playwright, Selenium & Pytest**  
