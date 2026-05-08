@@ -1,4 +1,4 @@
-## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 # I'm Warunee Dinunzio<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=🪲+QA+Automation+Engineer;Python+%7C+Selenium+%7C+Playwright;🤖+AI+Testing+%26+Automation;💻+Self-taught+Software+Engineer;📖+Lifelong+Learner;👦🏻👦🏻+Proud+Mom+of+Twins&left=true&width=550&height=45">
@@ -99,7 +99,6 @@ A full-stack AI chatbot and QA automation project where I built a local LLM-powe
 ✔️ Experience testing AI-powered user workflows  
 ✔️ Fast learner with a growth mindset
 
----
 
 
 ### 🤝 Open to Opportunities
@@ -117,7 +116,7 @@ and opportunities to contribute to **mission-driven teams**.
 
 ---
 
-### ⚡ Fun Facts
+## ⚡ Fun Facts
 
 ♟ I enjoy playing chess  
 
