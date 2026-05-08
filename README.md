@@ -41,6 +41,15 @@ I care deeply about **software quality, accessibility, and real-world impact**.
 
 ### GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waruneedinunzio)
+![](./profile-summary-card-output/github/0-profile-details.svg)
+
+![](./profile-summary-card-output/github/1-repos-per-language.svg)
+
+![](./profile-summary-card-output/github/2-most-commit-language.svg)
+
+![](./profile-summary-card-output/github/3-stats.svg)
+
+![](./profile-summary-card-output/github/4-productive-time.svg)
 
 ---
 
