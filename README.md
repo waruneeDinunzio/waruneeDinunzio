@@ -40,22 +40,52 @@ I care deeply about **software quality, accessibility, and real-world impact**.
 ---
 
 ### GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waruneedinunzio)
-![](./profile-summary-card-output/github/0-profile-details.svg)
 
+<!--![](./profile-summary-card-output/github/0-profile-details.svg)-->
 ![](./profile-summary-card-output/github/1-repos-per-language.svg)
-
 ![](./profile-summary-card-output/github/2-most-commit-language.svg)
-
 ![](./profile-summary-card-output/github/3-stats.svg)
 
-![](./profile-summary-card-output/github/4-productive-time.svg)
 
 ---
 
-### 🛠️ I’m currently working on
 
-[![Local_AI_chatbot_QA_automation](https://img.shields.io/badge/Repo-Local_AI_chatbot_QA_automation-blue?logo=github)](https://github.com/waruneeDinunzio/Local_AI_chatbot_QA_automation)
+## 🚧 Currently Working On  
+
+<table>
+<tr>
+<td width="100%">
+
+### 🤖 Local AI Chatbot QA Automation
+
+<a href="https://github.com/waruneeDinunzio/Local_AI_chatbot_QA_automation">
+  View Repository →
+</a>
+<br><br>
+This project focuses on testing a local AI chatbot application powered by a local LLM (Ollama), using Playwright for end-to-end automation.
+
+The goal was to simulate real-world user interactions with an AI system and validate UI behavior, API responses, and error handling through reliable automated tests.
+
+### 🔍 What This Project Demonstrates
+
+✅ Design of scalable QA automation frameworks  
+✅ Testing AI-driven user workflows  
+✅ Validation of asynchronous UI behavior  
+✅ Mocking API responses for stable test execution  
+✅ Real integration testing with a local AI model  
+✅ Playwright best practices (POM, locators, fixtures)
+
+### 🛠️ Tech Stack
+
+![Playwright](https://img.shields.io/badge/Playwright-E2E_Testing-green?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-Automation-blue?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-black?style=for-the-badge)
+![QA Automation](https://img.shields.io/badge/QA-Automation-orange?style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-purple?style=for-the-badge)
+
+</td>
+</tr>
+</table>
 
 
 ---
