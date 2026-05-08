@@ -6,7 +6,7 @@
 
 ---
 
-### 🎯 About Me
+## 🎯 About Me
 
 I’m a detail-oriented QA Automation Engineer with hands-on experience in  
 **Python, Selenium, Pytest, API testing, and Playwright with TypeScript**.
