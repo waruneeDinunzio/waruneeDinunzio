@@ -32,7 +32,7 @@ I care deeply about **software quality, accessibility, and real-world impact**.
 <br><br>
 
 ![Playwright](https://img.shields.io/badge/Playwright-E2E_Testing-green?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-Automation-blue?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-Automation-blue?style=for-the-badge)
 ![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-black?style=for-the-badge)
 ![AI Testing](https://img.shields.io/badge/AI-Testing-orange?style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-purple?style=for-the-badge)
@@ -62,8 +62,8 @@ A full-stack AI chatbot and QA automation project where I built a local LLM-powe
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### QA & Automation
 
